@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SwitchScreen</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_name_tv">Enter your Name</string>
+    <string name="enter_name_bt">Enter</string>
+    <string name="calling_activity_msg">The Calling Activity</string>
+    <string name="get_the_name_tv">Go Get the Name</string>
+    <string name="users_name_send_back">The Users Name was:</string>
+</resources>
